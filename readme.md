@@ -72,13 +72,13 @@ The sum of numbers from 1 to 50 is: 1275
 2. Clone the repository:
 
 
-git clone <your-repository-link>
+git clone <https://github.com/ashishb24cs1024/tutedude_assignment_2>
 
 
 3. Navigate to the project directory:
 
 
-cd <repository-name>
+cd <tutedude_assignment_2>
 
 
 4. Run the scripts:
